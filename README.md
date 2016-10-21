@@ -1,4 +1,4 @@
-# OpenCV Android Bindings for Gradle
+# OpenCV Android Bindings for Gradle [![](https://jitpack.io/v/davidmigloz/opencv-android-gradle-repo.svg)](https://jitpack.io/#davidmigloz/opencv-android-gradle-repo)
 
 OpenCV Android bindings packaged as Gradle dependecy.
 
@@ -32,3 +32,11 @@ dependencies {
 ## Versions supported
 
 - OpenCV 3.1.0
+
+## API levels
+```gradle
+minSdkVersion 9
+targetSdkVersion 25
+compileSdkVersion 25
+buildToolsVersion "25.0.0"
+```
