@@ -25,12 +25,13 @@ Add the dependency:
 
 ```gradle
 dependencies {
-	compile 'com.github.davidmigloz:opencv-android-gradle-repo:3.1.0'
+	compile 'com.github.davidmigloz:opencv-android-gradle-repo:3.2.0'
 }
 ```
 
 ## Versions supported
 
+- OpenCV 3.2.0
 - OpenCV 3.1.0
 
 ## API levels
